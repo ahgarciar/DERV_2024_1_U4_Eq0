@@ -69,9 +69,11 @@
     <Compile Include="Assets/Scripts/IntroScripts/DetectaJugador.cs" />
     <Compile Include="Assets/Prefabs/MovInicialProyectil.cs" />
     <Compile Include="Assets/Scripts/IntroScripts/LookAt.cs" />
+    <Compile Include="Assets/Scripts/P3_TomarObjetosV2.cs" />
     <Compile Include="Assets/Character/Mouse_RotarPersonaje.cs" />
     <Compile Include="Assets/Character/Mouse_MoverCamara.cs" />
     <Compile Include="Assets/Prefabs/LanzadorProyectiles.cs" />
+    <Compile Include="Assets/Scripts/P2_TomarObjetos.cs" />
     <Compile Include="Assets/Scripts/P1_Fuerzas.cs" />
   </ItemGroup>
   <ItemGroup>

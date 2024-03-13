@@ -14,7 +14,7 @@ public class LanzadorProyectiles : MonoBehaviour
 
     // Start is called before the first frame update
     void Start()
-    {
+    {        
         balas = new List<GameObject>();
         for (int i = 0; i < 100; i++)
         {

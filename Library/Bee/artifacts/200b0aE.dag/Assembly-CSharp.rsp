@@ -359,6 +359,8 @@
 "Assets/Scripts/IntroScripts/DetectaJugador.cs"
 "Assets/Scripts/IntroScripts/LookAt.cs"
 "Assets/Scripts/P1_Fuerzas.cs"
+"Assets/Scripts/P2_TomarObjetos.cs"
+"Assets/Scripts/P3_TomarObjetosV2.cs"
 -langversion:9.0
 
 /deterministic
