@@ -361,6 +361,7 @@
 "Assets/Scripts/P1_Fuerzas.cs"
 "Assets/Scripts/P2_TomarObjetos.cs"
 "Assets/Scripts/P3_TomarObjetosV2.cs"
+"Assets/Scripts/S_CampoVisionEnemigo.cs"
 -langversion:9.0
 
 /deterministic
